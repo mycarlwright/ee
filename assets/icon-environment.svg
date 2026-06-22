@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" fill="none" role="img" aria-label="Ecology and Environment">
+  <!-- Frame: square with rounded top-right corner, echoing the TM mark -->
+  <path d="M24 24 H150 A66 66 0 0 1 216 90 V216 H24 Z"
+        stroke="#2FA736" stroke-width="10" stroke-linejoin="round"/>
+  <!-- Leaf -->
+  <path d="M120 66 C152 92 156 142 120 172 C84 142 88 92 120 66 Z"
+        stroke="#2FA736" stroke-width="9" stroke-linejoin="round"/>
+  <path d="M120 66 V196" stroke="#2FA736" stroke-width="8" stroke-linecap="round"/>
+  <path d="M120 104 L98 117 M120 104 L142 117 M120 132 L101 145 M120 132 L139 145"
+        stroke="#2FA736" stroke-width="6" stroke-linecap="round"/>
+</svg>
